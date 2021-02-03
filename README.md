@@ -1,3 +1,3 @@
 # parkison-detector
 
-![Spiral Test Box](./Spiral Box.jpg?raw=true "Spiral Test Box")
+![Spiral Test Box](./SpiralBox.jpg?raw=true "Spiral Test Box")
