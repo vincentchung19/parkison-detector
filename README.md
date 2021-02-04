@@ -11,7 +11,7 @@
   <img src="https://filestore.community.support.microsoft.com/api/images/4240ddd9-cc9d-470d-a765-6baf4a946f48?upload=true" alt="A4 Fold"><br>
   2.Start the stopwatch when you begin to draw<br>
   3.Draw the spiral like the picture below on one side of your folded A4 Plain Paper using your 2B Pencil
-  <p><img src="./SpiralRectangle.png" alt="Spiral Test Box"></p>
+  <p><img src="./SpiralRectangle.png" width="954px" height="1614px" alt="Spiral Test Box"></p>
   4.After finish drawing the spiral, stop the stopwatch and take note of the time<br>
   5.Take a photo of your spiral drawing using your camera "WITHOUT FLASH", take the photo with room lights and without shadow in the spiral. The photo must be like picture below     <br>
   <img src="./152508.jpg" width="256px"><br>
